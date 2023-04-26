@@ -1,0 +1,15 @@
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.exe
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.deps.json
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.runtimeconfig.json
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.dll
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.pdb
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.csproj.AssemblyReference.cache
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.AssemblyInfoInputs.cache
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.AssemblyInfo.cs
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.dll
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\refint\EmployeeWageComputation.dll
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.pdb
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.genruntimeconfig.cache
+C:\Users\basho\OneDrive\Desktop\RFP-278\DemoAppp\EmployeeWageComputation\obj\Debug\net6.0\ref\EmployeeWageComputation.dll
